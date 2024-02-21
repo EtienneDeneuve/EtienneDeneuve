@@ -20,6 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Azure Devops &amp; MegaLinter Auto PR](https://etienne.deneuve.xyz/2023/07/28/autofix-megalinter-azure-devops/)
+- [Supercharge your git Experience - Part 1](https://etienne.deneuve.xyz/2023/05/14/supercharge-your-git-experience-part1/)
+- [Azure NetApp Files - Custom RBAC Roles](https://etienne.deneuve.xyz/2020/06/19/anf-rbac/)
+- [Terraform AzureRM 2.0 Provider](https://etienne.deneuve.xyz/2020/02/25/terraform-azurerm-2/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
