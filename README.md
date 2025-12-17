@@ -22,8 +22,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Automatiser la génération des carousels Linkedin](https://etienne.deneuve.xyz/2024/10/05/automate-linkedin-carrousel/)
 - [Les Identités Managées](https://etienne.deneuve.xyz/2024/09/17/les-identites-managees-azure/)
-- [Azure Devops &amp; MegaLinter Auto PR](https://etienne.deneuve.xyz/2023/07/28/autofix-megalinter-azure-devops/)
-- [Supercharge your git Experience - Part 1](https://etienne.deneuve.xyz/2023/05/14/supercharge-your-git-experience-part1/)
+- [Zero Trust - Et l&#39;Open Source](https://etienne.deneuve.xyz/2024/02/14/zero-trust-open-source/)
+- [Zero Trust - Comparatif](https://etienne.deneuve.xyz/2024/02/15/zero-trust-tl-dr/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
