@@ -20,10 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Svelte, Astro et la nouvelle génération de frameworks Web](https://etienne.deneuve.xyz/2025-12-17/automate-nouveaux%20framewroks%20web/)
-- [Automatiser la génération des carousels Linkedin](https://etienne.deneuve.xyz/2024/10/05/automate-linkedin-carrousel/)
-- [Les Identités Managées](https://etienne.deneuve.xyz/2024/09/17/les-identites-managees-azure/)
-- [Zero Trust - Et l&#39;Open Source](https://etienne.deneuve.xyz/2024/02/14/zero-trust-open-source/)
+- [Svelte, Astro et la nouvelle génération de frameworks Web](https://etienne.deneuve.xyz/2025-12-17/les-nouveaux-frameworks-web)
+- [Automatiser la génération des carousels Linkedin](https://etienne.deneuve.xyz/2024/10/05/automate-linkedin-carrousel)
+- [Les Identités Managées](https://etienne.deneuve.xyz/2024/09/17/les-identites-managees-azure)
+- [Zero Trust - Et l&#39;Open Source](https://etienne.deneuve.xyz/2024/02/14/zero-trust-open-source)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
