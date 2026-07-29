@@ -20,10 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [De la métrique au runbook : construire une chaîne d’alerting réellement opérable](https://etienne.deneuve.xyz/thinking/2026-07-13-de-la-metrique-au-runbook/)
+- [Trivy, OSV-Scanner et Snyk : trois scanners, trois définitions du risque](https://etienne.deneuve.xyz/thinking/2026-07-29-trivy-osv-snyk-trois-definitions-du-risque/)
+- [Une alerte qui n’a jamais été testée n’existe pas](https://etienne.deneuve.xyz/thinking/2026-07-06-observabilite-contrat-testable/)
 - [Svelte, Astro et la nouvelle génération de frameworks Web](https://etienne.deneuve.xyz/thinking/2025-12-17-les-nouveaux-frameworks-web/)
 - [Automatiser la génération des carousels Linkedin](https://etienne.deneuve.xyz/thinking/2024-10-05-automatisation-carousel-linkedin/)
-- [Les Identités Managées](https://etienne.deneuve.xyz/thinking/2024-09-16-managed-identities/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
