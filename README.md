@@ -26,7 +26,9 @@ I care less about adding another tool than about proving what a system observes,
 
 <!-- BLOG-POST-LIST:START -->
 - [Trivy, OSV-Scanner et Snyk : trois scanners, trois définitions du risque](https://etienne.deneuve.xyz/thinking/2026-07-29-trivy-osv-snyk-trois-definitions-du-risque/)
-- [Une alerte qui n’a jamais été testée n’existe pas](https://etienne.deneuve.xyz/thinking/2026-07-06-observabilite-contrat-testable/)
+- [De la métrique au runbook : construire des alertes réellement opérables](https://etienne.deneuve.xyz/thinking/2026-07-06-observabilite-contrat-testable/)
+- [Svelte, Astro et la nouvelle génération de frameworks Web](https://etienne.deneuve.xyz/thinking/2025-12-17-les-nouveaux-frameworks-web/)
+- [Automatiser la génération des carousels Linkedin](https://etienne.deneuve.xyz/thinking/2024-10-05-automatisation-carousel-linkedin/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Current focus
