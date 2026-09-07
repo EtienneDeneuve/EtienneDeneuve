@@ -1,36 +1,35 @@
-# Etienne Deneuve
+# Étienne Deneuve
 
-**Platform Reliability Architect · Co-founder and CTO at [Omnivya](https://www.omnivya.fr/)**
+**Cloud & Platform Architect — Azure, Kubernetes, hybrid infrastructure, SRE, observability, security and technical audits.**
 
-I design, assess, and evolve cloud and Kubernetes platforms that have become difficult to understand, govern, secure, or operate.
+CTO at [Omnivya](https://www.omnivya.fr/). I help teams understand, assess and improve complex platforms: architecture, reliability, operability, security, dependency risk and infrastructure automation.
 
-My work sits at the intersection of:
+## What I work on
 
-- platform engineering and cloud-native architecture;
-- reliability, observability, and SRE;
-- DevSecOps and software supply-chain risk;
-- dependency mapping, blast-radius analysis, and operability;
-- turning technical evidence into explicit, testable decisions.
+- **Cloud & hybrid architectures** — Azure, networking, Linux and infrastructure design.
+- **Kubernetes & Platform Engineering** — AKS, GitOps, platform automation and workload operations.
+- **SRE & observability** — OpenTelemetry, Prometheus, metrics, logs, traces, SLI/SLO and diagnostics.
+- **Infrastructure as Code & automation** — Terraform, configuration management, image engineering and CI/CD.
+- **Platform security** — SBOM, software supply chain, secrets, RBAC and policy as code.
+- **Technical audits & architecture reviews** — dependency mapping, blast radius, configuration validation and architecture verification.
 
-I care less about adding another tool than about proving what a system observes, what it misses, and which decisions it enables.
+## Selected work
 
-[Website](https://etienne.deneuve.xyz/) · [LinkedIn](https://www.linkedin.com/in/etiennedeneuve/) · [Omnivya](https://www.omnivya.fr/) · [Projects](https://etienne.deneuve.xyz/projects/)
+- [External Metrics Exporter](https://github.com/Simplifi-ED/external-metrics-exporter) — discovers external dependencies used by Kubernetes workloads, builds blast-radius context and exports provider-neutral SRE signals across cloud and SaaS.
+- [cloudcost](https://github.com/Simplifi-ED/cloudcost) — queries Azure service pricing to make infrastructure cost assumptions explicit and reproducible.
+- [Azure DevOps Kubernetes Operator](https://github.com/Simplifi-ED/azdo-kube-operator) — automates the lifecycle and scaling of self-hosted Azure DevOps agents on Kubernetes from pipeline demand.
+- [Azure DevOps Supply-Chain Scanner](https://github.com/Simplifi-ED/ShaiHulud-AzureDevops-Scanner) — generates SBOMs, scans for exposed secrets and evaluates Dependency-Track policies across Azure DevOps repositories.
+- [container compose](https://github.com/Simplifi-ED/compose) — brings Compose-style orchestration to Apple's container runtime with dependency-aware startup, health checks and operational tooling.
+- [setup-step-cli](https://github.com/Simplifi-ED/setup-step-cli) — provides reproducible Smallstep CLI installation in GitHub Actions with CI, CodeQL and release automation.
 
-## Selected open source
+## Current engineering interests
 
-- [External Metrics Exporter](https://github.com/Simplifi-ED/external-metrics-exporter) — discovers external dependencies used by Kubernetes workloads and exposes a provider-neutral Prometheus contract based on Golden Signals, RED, and USE.
-- [Azure DevOps Kubernetes Operator](https://github.com/Simplifi-ED/azdo-kube-operator) — provisions, scales, and removes self-hosted Azure DevOps agent pods according to pipeline demand.
-- [All projects and technical work](https://etienne.deneuve.xyz/projects/)
+- Infrastructure dependency mapping and blast-radius analysis
+- OpenTelemetry and testable observability contracts
+- Kubernetes networking and Gateway API
+- Architecture verification and configuration validation
+- Platform and software supply-chain security
 
-## Latest writing
+## Links
 
-<!-- BLOG-POST-LIST:START -->
-- [Trivy, OSV-Scanner et Snyk : trois scanners, trois définitions du risque](https://etienne.deneuve.xyz/thinking/2026-07-29-trivy-osv-snyk-trois-definitions-du-risque/)
-- [De la métrique au runbook : construire des alertes réellement opérables](https://etienne.deneuve.xyz/thinking/2026-07-06-observabilite-contrat-testable/)
-- [Svelte, Astro et la nouvelle génération de frameworks Web](https://etienne.deneuve.xyz/thinking/2025-12-17-les-nouveaux-frameworks-web/)
-- [Automatiser la génération des carousels Linkedin](https://etienne.deneuve.xyz/thinking/2024-10-05-automatisation-carousel-linkedin/)
-<!-- BLOG-POST-LIST:END -->
-
-## Current focus
-
-Readable, reliable, and governable platforms: systems whose dependencies, risks, operational contracts, and architectural trade-offs can be explained and tested.
+[LinkedIn](https://www.linkedin.com/in/etiennedeneuve/) · [Malt](https://www.malt.fr/profile/etiennedeneuve) · [Website](https://etienne.deneuve.xyz/) · [Omnivya](https://www.omnivya.fr/)
