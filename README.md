@@ -1,8 +1,8 @@
 # Étienne Deneuve
 
-**Cloud & Platform Architect — Azure, Kubernetes, hybrid infrastructure, SRE, observability, security and technical audits.**
+**CTO · Platform Reliability Architect — Azure, AKS/Kubernetes, Platform Engineering, SRE, OpenTelemetry, DevSecOps, software supply chain and FinOps.**
 
-CTO at [Omnivya](https://www.omnivya.fr/). I help teams understand, assess and improve complex platforms: architecture, reliability, operability, security, dependency risk and infrastructure automation.
+CTO and co-founder at [Omnivya](https://www.omnivya.fr/). I help CTOs, CIOs and platform teams understand, assess and improve critical platforms: architecture, reliability, operability, security, dependency risk, cloud cost and infrastructure automation.
 
 ## What I work on
 
@@ -12,6 +12,20 @@ CTO at [Omnivya](https://www.omnivya.fr/). I help teams understand, assess and i
 - **Infrastructure as Code & automation** — Terraform, configuration management, image engineering and CI/CD.
 - **Platform security** — SBOM, software supply chain, secrets, RBAC and policy as code.
 - **Technical audits & architecture reviews** — dependency mapping, blast radius, configuration validation and architecture verification.
+
+## Where I can help
+
+For commercial engagements, start with the problem rather than a technology catalogue:
+
+- [Kubernetes & AKS](https://www.omnivya.fr/expertises/kubernetes/)
+- [Cloud architecture](https://www.omnivya.fr/expertises/architecture-cloud/)
+- [Platform Engineering](https://www.omnivya.fr/expertises/platform-engineering/)
+- [OpenTelemetry & observability](https://www.omnivya.fr/expertises/opentelemetry-observabilite/)
+- [Site Reliability Engineering](https://www.omnivya.fr/expertises/sre/)
+- [DevSecOps](https://www.omnivya.fr/expertises/devsecops/)
+- [Software supply chain, SBOM & SLSA](https://www.omnivya.fr/expertises/software-supply-chain-security/)
+- [FinOps](https://www.omnivya.fr/expertises/finops/)
+- [Three ways to start an engagement](https://www.omnivya.fr/missions/)
 
 ## Selected work
 
