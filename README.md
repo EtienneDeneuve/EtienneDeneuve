@@ -1,49 +1,49 @@
 # Étienne Deneuve
 
-**CTO · Platform Reliability Architect — Azure, AKS/Kubernetes, Platform Engineering, SRE, OpenTelemetry, DevSecOps, software supply chain and FinOps.**
+**CTO · Platform Reliability Architect**
 
-CTO and co-founder at [Omnivya](https://www.omnivya.fr/). I help CTOs, CIOs and platform teams understand, assess and improve critical platforms: architecture, reliability, operability, security, dependency risk, cloud cost and infrastructure automation.
+Cloud architecture · Kubernetes / AKS · Platform Engineering · SRE / OpenTelemetry · DevSecOps · software supply chain
 
-## What I work on
+<p align="center">
+  <a href="https://etienne.deneuve.xyz/?utm_source=github&utm_medium=profile&utm_campaign=personal-brand&utm_content=readme">Site FR</a> ·
+  <a href="https://etienne.deneuve.xyz/en/?utm_source=github&utm_medium=profile&utm_campaign=personal-brand&utm_content=readme">Site EN</a> ·
+  <a href="https://etienne.deneuve.xyz/thinking/?utm_source=github&utm_medium=profile&utm_campaign=personal-brand&utm_content=readme">Thinking</a> ·
+  <a href="https://etienne.deneuve.xyz/projects/?utm_source=github&utm_medium=profile&utm_campaign=personal-brand&utm_content=readme">Projects</a> ·
+  <a href="https://www.omnivya.fr/?utm_source=github&utm_medium=profile&utm_campaign=personal-brand&utm_content=readme">Omnivya</a>
+</p>
 
-- **Cloud & hybrid architectures** — Azure, networking, Linux and infrastructure design.
-- **Kubernetes & Platform Engineering** — AKS, GitOps, platform automation and workload operations.
-- **SRE & observability** — OpenTelemetry, Prometheus, metrics, logs, traces, SLI/SLO and diagnostics.
-- **Infrastructure as Code & automation** — Terraform, configuration management, image engineering and CI/CD.
-- **Platform security** — SBOM, software supply chain, secrets, RBAC and policy as code.
-- **Technical audits & architecture reviews** — dependency mapping, blast radius, configuration validation and architecture verification.
+## Français
 
-## Where I can help
+J’aide les CTO et DSI quand une plateforme critique, l’organisation ou la dette technique rendent chaque changement trop risqué. Je travaille là où une décision bloque réellement le delivery : architecture cloud, Kubernetes, observabilité, sécurité, organisation et engineering.
 
-For commercial engagements, start with the problem rather than a technology catalogue:
+Je publie ici une partie du travail : outils open source, retours de production, décisions d’architecture et expériences reproductibles. Les missions de conseil et de delivery sont portées par [Omnivya](https://www.omnivya.fr/fr/missions/?utm_source=github&utm_medium=profile&utm_campaign=personal-brand&utm_content=missions-fr).
 
-- [Kubernetes & AKS](https://www.omnivya.fr/expertises/kubernetes/)
-- [Cloud architecture](https://www.omnivya.fr/expertises/architecture-cloud/)
-- [Platform Engineering](https://www.omnivya.fr/expertises/platform-engineering/)
-- [OpenTelemetry & observability](https://www.omnivya.fr/expertises/opentelemetry-observabilite/)
-- [Site Reliability Engineering](https://www.omnivya.fr/expertises/sre/)
-- [DevSecOps](https://www.omnivya.fr/expertises/devsecops/)
-- [Software supply chain, SBOM & SLSA](https://www.omnivya.fr/expertises/software-supply-chain-security/)
-- [FinOps](https://www.omnivya.fr/expertises/finops/)
-- [Three ways to start an engagement](https://www.omnivya.fr/missions/)
+- [Travaux et projets](https://etienne.deneuve.xyz/projects/?utm_source=github&utm_medium=profile&utm_campaign=personal-brand&utm_content=projects-fr)
+- [Notes de terrain et décisions d’architecture](https://etienne.deneuve.xyz/thinking/?utm_source=github&utm_medium=profile&utm_campaign=personal-brand&utm_content=thinking-fr)
+- [Modes d’intervention](https://etienne.deneuve.xyz/work/?utm_source=github&utm_medium=profile&utm_campaign=personal-brand&utm_content=work-fr)
 
-## Selected work
+## English
 
-- [External Metrics Exporter](https://github.com/Simplifi-ED/external-metrics-exporter) — discovers external dependencies used by Kubernetes workloads, builds blast-radius context and exports provider-neutral SRE signals across cloud and SaaS.
-- [cloudcost](https://github.com/Simplifi-ED/cloudcost) — queries Azure service pricing to make infrastructure cost assumptions explicit and reproducible.
-- [Azure DevOps Kubernetes Operator](https://github.com/Simplifi-ED/azdo-kube-operator) — automates the lifecycle and scaling of self-hosted Azure DevOps agents on Kubernetes from pipeline demand.
-- [Azure DevOps Supply-Chain Scanner](https://github.com/Simplifi-ED/ShaiHulud-AzureDevops-Scanner) — generates SBOMs, scans for exposed secrets and evaluates Dependency-Track policies across Azure DevOps repositories.
-- [container compose](https://github.com/Simplifi-ED/compose) — brings Compose-style orchestration to Apple's container runtime with dependency-aware startup, health checks and operational tooling.
-- [setup-step-cli](https://github.com/Simplifi-ED/setup-step-cli) — provides reproducible Smallstep CLI installation in GitHub Actions with CI, CodeQL and release automation.
+I help CTOs and CIOs when a critical platform, the organisation or technical debt makes every change feel too risky. I work where a technical decision is genuinely blocking delivery: cloud architecture, Kubernetes, observability, security, organisation and engineering.
 
-## Current engineering interests
+I publish part of that work here: open-source tools, production field notes, architecture decisions and reproducible experiments. Advisory and delivery engagements run through [Omnivya](https://www.omnivya.fr/missions/?utm_source=github&utm_medium=profile&utm_campaign=personal-brand&utm_content=missions-en).
 
-- Infrastructure dependency mapping and blast-radius analysis
-- OpenTelemetry and testable observability contracts
-- Kubernetes networking and Gateway API
-- Architecture verification and configuration validation
-- Platform and software supply-chain security
+- [Public work and projects](https://etienne.deneuve.xyz/en/projects/?utm_source=github&utm_medium=profile&utm_campaign=personal-brand&utm_content=projects-en)
+- [Field notes and architecture decisions](https://etienne.deneuve.xyz/en/thinking/?utm_source=github&utm_medium=profile&utm_campaign=personal-brand&utm_content=thinking-en)
+- [How I work](https://etienne.deneuve.xyz/en/work/?utm_source=github&utm_medium=profile&utm_campaign=personal-brand&utm_content=work-en)
 
-## Links
+## Selected public engineering / Travaux publics sélectionnés
 
-[LinkedIn](https://www.linkedin.com/in/etiennedeneuve/) · [Malt](https://www.malt.fr/profile/etiennedeneuve) · [Website](https://etienne.deneuve.xyz/) · [Omnivya](https://www.omnivya.fr/)
+- [Unchair](https://github.com/EtienneDeneuve/unchair) — local-first macOS break reminder built with Swift/SwiftUI, Apple Vision, signed releases and Homebrew distribution. [FR](https://etienne.deneuve.xyz/unchair/?utm_source=github&utm_medium=profile&utm_campaign=personal-brand&utm_content=unchair-fr) · [EN](https://etienne.deneuve.xyz/en/unchair/?utm_source=github&utm_medium=profile&utm_campaign=personal-brand&utm_content=unchair-en)
+- [external-metrics-exporter](https://github.com/Simplifi-ED/external-metrics-exporter) — discovers external dependencies used by Kubernetes workloads and exports provider-neutral SRE signals.
+- [flagger-demo-kind](https://github.com/EtienneDeneuve/flagger-demo-kind) — reproducible lab around Flagger, Gateway API, Cilium and Envoy Gateway.
+- [azdo-kube-operator](https://github.com/Simplifi-ED/azdo-kube-operator) — Kubernetes operator that adjusts self-hosted Azure DevOps agent capacity from pipeline demand.
+
+## Field evidence / Preuves de terrain
+
+- [Instrumenting roughly 200 brownfield services with OpenTelemetry without a broad rewrite](https://etienne.deneuve.xyz/thinking/2026-09-22-opentelemetry-instrumenter-200-services/?utm_source=github&utm_medium=profile&utm_campaign=personal-brand&utm_content=otel-200)
+- [Flagger, Gateway API, Cilium and Envoy Gateway: who actually decides traffic?](https://etienne.deneuve.xyz/thinking/2026-10-13-flagger-lab-kind-gateway-api/?utm_source=github&utm_medium=profile&utm_campaign=personal-brand&utm_content=flagger-lab)
+
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/etiennedeneuve/) · [Omnivya](https://www.omnivya.fr/?utm_source=github&utm_medium=profile&utm_campaign=personal-brand&utm_content=footer) · [GitHub projects](https://etienne.deneuve.xyz/projects/?utm_source=github&utm_medium=profile&utm_campaign=personal-brand&utm_content=footer-projects)
